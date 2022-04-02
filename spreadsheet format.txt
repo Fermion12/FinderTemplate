@@ -1,0 +1,5 @@
+https://docs.google.com/spreadsheets/d/{key}/gviz/tq?tqx=out:csv&sheet={sheetname}
+
+https://docs.google.com/spreadsheets/d/1G6fXi9CuvmECf9T-6V4siVJjCVv6vN5vgGYsDHjXdwU/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1G6fXi9CuvmECf9T-6V4siVJjCVv6vN5vgGYsDHjXdwU/gviz/tq?tqx=out:csv&sheet=Sheet1
